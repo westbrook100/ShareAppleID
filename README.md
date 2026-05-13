@@ -1,4 +1,4 @@
-# 外区AppleID、美区苹果ID、免费苹果ID共享合集，持续更新
+# 2026年5月14号更新：外区AppleID、美区苹果ID、免费苹果ID共享合集，持续更新
 
 想要在AppStore下载国外的应用，例如Telegram、Shadorocket、Tiktok、Instangram、GMail、ChatGPT，都是需要一个外区的ApplId登录到AppStore，才能搜索下载的。
 
