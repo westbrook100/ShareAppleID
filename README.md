@@ -108,7 +108,7 @@ TiktoK也是完美运行的，TiktoK的必备条件包括以下4条：
 这里是在「青山」这款VPN软件中找到的，目前提供共享的海外AppleID的VPN软件确实不多，都是让自己去找。
 
 
-先注册一下，[点击注册青山](https://qsqs.life/register?code=hzhSNrdy)
+先注册一下，[点击注册青山](https://qsqs.club/register?code=hzhSNrdy)
 
 这个VPN相当便宜，仅仅只要14元/月/100G（年付100），大力推荐。
 
